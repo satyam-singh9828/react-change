@@ -1,6 +1,6 @@
 # React TypeScript Cheatsheet
 
-Cheatsheet for using React with TypeScript.
+changes by satyam singh 
 
 ---
 
